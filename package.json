@@ -9,7 +9,11 @@
     "node": ">=11.0"
   },
   "engineStrict": true,
-  "dependencies": {},
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "koa": "^2.6.2",
+    "koa-router": "^7.4.0"
+  },
   "devDependencies": {
     "eslint": "^5.12.0",
     "eslint-config-google": "^0.11.0",
